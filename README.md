@@ -11,7 +11,8 @@
  </div>
 
 ## Experience
- - Python(Django, FastAPI, Flask) Backend Developer
+ - Python(Django, FastAPI, Flask), Node(express) Backend Developer
+ - React Frontend Beginner
  - AWS, EKS, Serverless Devops
  - Migration legacy services to microservices
 
