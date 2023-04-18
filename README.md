@@ -20,7 +20,7 @@
 ## Interst
  - Full stack Developer(Learning React)
  - Deep dive devops
- - Golang
+ - Rust
 
 
 <!--
